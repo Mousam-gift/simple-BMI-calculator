@@ -1,1 +1,2 @@
 # simple-BMI-calculator
+This is a simple command line BMI Calculator built using Python. The program takes a user’s weight (in kilograms) and height (in meters) as input and calculates the BMI using the standard BMI formula. Based on the calculated BMI value, the program classifies the user’s health category as Underweight, Normal weight, Overweight, or Obese. This project demonstrates basic Python concepts such as user input, conditional statements, arithmetic operations, and formatted output.
